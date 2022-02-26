@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shiirudo</h1>
 <h3 align="center">A student trying to learn programming</h3>
 
+<h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Python and Git.**
-
-- 👯 I’m looking to collaborate on **interesting localization projects.**
+<ul>
+<li>🌱 I’m currently learning **Python and Git.**</li>
+<li>👯 I’m looking to collaborate on **interesting localization projects.**</li>
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
