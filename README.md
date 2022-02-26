@@ -4,8 +4,8 @@
 <h3 align="left">About me:</h3>
 
 <ul>
-<li>🌱 I’m currently learning **Python and Git.**</li>
-<li>👯 I’m looking to collaborate on **interesting localization projects.**</li>
+  <li>🌱 I’m currently learning <b>Python and Git.</b></li>
+<li>👯 I’m looking to collaborate on <b>interesting localization projects.</b></li>
 </ul>
 
 
